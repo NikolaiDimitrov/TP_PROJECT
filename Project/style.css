@@ -153,7 +153,11 @@ height:1px;
 display:block;
 border-top:1px black dashed;
 }
-
+.title_box{
+font-weight:bold;
+font-size:15px;
+padding: 0 0 0 15px;
+}
 .prod_box{
 width:150px;
 float:left;
